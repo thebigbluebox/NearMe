@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="classes2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IBeaconPoC/IBeaconPoC/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.0-beta6/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

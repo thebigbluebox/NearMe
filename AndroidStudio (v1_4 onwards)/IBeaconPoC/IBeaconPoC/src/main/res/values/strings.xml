@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Near Me</string>
+    <string name="button_start_scan">Whats Near Me?</string>
+    <string name="button_stop_scan">Stop scanning</string>
+    <string name="Settings">Settings</string>
+    <string name="action_listfiles">List stores</string>
+    <string name="action_deletefiles">Delete Files</string> 
+    <string name="action_transferfiles">Transfer Files</string>
+    <string name="none_display">No one is around you</string>
+</resources>

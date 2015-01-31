@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IBeaconPoC/IBeaconPoC/build/intermediates/pre-dexed/debug/classes-d3b950b21c73a1d541f0d61f7096733ae67829ba.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IBeaconPoC/IBeaconPoC/build/intermediates/pre-dexed/debug/classes-bc5a1899e168b2457d46ae52888f7441477acf11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IBeaconPoC/IBeaconPoC/build/intermediates/pre-dexed/debug/google-play-services-1ec3563b5696b88f324643b4e2937223f3ec2c43.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IBeaconPoC/IBeaconPoC/build/intermediates/pre-dexed/debug/android-support-v4-2325c3ddecb2ba57705727b3bef5fbea4ea32c8d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

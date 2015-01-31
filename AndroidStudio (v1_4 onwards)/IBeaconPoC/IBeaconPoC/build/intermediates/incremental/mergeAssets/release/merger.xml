@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="/Users/justin/AndroidstudioProjects/IBeaconPoC/IBeaconPoC/build/intermediates/exploded-aar/IBeaconPoC/googleplayservices_lib/unspecified/assets" />
+    </dataSet>
+    <dataSet config="2.0-beta6" >
+        <source path="/Users/justin/AndroidstudioProjects/IBeaconPoC/IBeaconPoC/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.0-beta6/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/justin/AndroidstudioProjects/IBeaconPoC/IBeaconPoC/src/main/assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/justin/AndroidstudioProjects/IBeaconPoC/IBeaconPoC/src/release/assets" />
+    </dataSet>
+
+</merger>

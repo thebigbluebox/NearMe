@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="release">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IBeaconPoC/IBeaconPoC/build/intermediates/pre-dexed/release/classes-ef14dfcbf8ad23cfc09caaaa43e19a4dff32bfbd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IBeaconPoC/IBeaconPoC/build/intermediates/pre-dexed/release/classes-dc009002ddfa7ca3b0f8e8fd630abaaa3d94df55.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IBeaconPoC/IBeaconPoC/build/intermediates/pre-dexed/release/google-play-services-21565ca4c3b346bfb6ceeb6a43d2c58f7d03a2e8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IBeaconPoC/IBeaconPoC/build/intermediates/pre-dexed/release/android-support-v4-22695a2c5afe483e0d0b9be909f1791cea610aff.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
